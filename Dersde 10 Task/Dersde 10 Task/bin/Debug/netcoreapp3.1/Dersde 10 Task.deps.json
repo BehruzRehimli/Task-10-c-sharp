@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dersde 10 Task/1.0.0": {
+        "dependencies": {
+          "Clas": "1.0.0"
+        },
+        "runtime": {
+          "Dersde 10 Task.dll": {}
+        }
+      },
+      "Clas/1.0.0": {
+        "runtime": {
+          "Clas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dersde 10 Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

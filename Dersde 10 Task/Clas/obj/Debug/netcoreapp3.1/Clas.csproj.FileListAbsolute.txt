@@ -1,0 +1,10 @@
+C:\Users\Ziya\Desktop\c#\Dersde 10 Task\Clas\bin\Debug\netcoreapp3.1\Clas.deps.json
+C:\Users\Ziya\Desktop\c#\Dersde 10 Task\Clas\bin\Debug\netcoreapp3.1\Clas.dll
+C:\Users\Ziya\Desktop\c#\Dersde 10 Task\Clas\bin\Debug\netcoreapp3.1\Clas.pdb
+C:\Users\Ziya\Desktop\c#\Dersde 10 Task\Clas\obj\Debug\netcoreapp3.1\Clas.csproj.AssemblyReference.cache
+C:\Users\Ziya\Desktop\c#\Dersde 10 Task\Clas\obj\Debug\netcoreapp3.1\Clas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziya\Desktop\c#\Dersde 10 Task\Clas\obj\Debug\netcoreapp3.1\Clas.AssemblyInfoInputs.cache
+C:\Users\Ziya\Desktop\c#\Dersde 10 Task\Clas\obj\Debug\netcoreapp3.1\Clas.AssemblyInfo.cs
+C:\Users\Ziya\Desktop\c#\Dersde 10 Task\Clas\obj\Debug\netcoreapp3.1\Clas.csproj.CoreCompileInputs.cache
+C:\Users\Ziya\Desktop\c#\Dersde 10 Task\Clas\obj\Debug\netcoreapp3.1\Clas.dll
+C:\Users\Ziya\Desktop\c#\Dersde 10 Task\Clas\obj\Debug\netcoreapp3.1\Clas.pdb
